@@ -1,0 +1,18 @@
+h1 {
+    color: blue                                                 ;
+}
+
+
+.image {
+    height: 295px;
+    width: 454px;
+    background: url('https://forum.academy/uploads/default/original/2X/4/4e0b00da761de76f2875c5529449f09a2f22ba07.jpg');
+}
+
+.title {
+    color: red;
+}
+
+body{
+    background-color: brown;
+}
